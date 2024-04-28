@@ -38,8 +38,8 @@ To get started with the Autonomous Collision Avoidance System:
 
 
 #### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 #### Acknowledgements
-- Special thanks to [Organization/Team Name] for their support and contributions to the project.
-- Inspired by [Source/Project Name] for providing guidance and inspiration for autonomous vehicle development.
+- Special thanks to Dr.Meha Saadeh's Lecture and insights to the project.
+- Inspired by Protok Lab for the inspiration for autonomous vehicle development.
